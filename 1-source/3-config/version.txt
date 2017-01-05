@@ -1,0 +1,4 @@
+product=Radar
+version=1.0
+release date=2017/01/05
+author=galaxy software services

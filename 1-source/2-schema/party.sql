@@ -1,0 +1,1 @@
+create table party (party_id int, party_name)
