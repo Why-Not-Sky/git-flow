@@ -4,3 +4,9 @@ getEmployment(party_id, position_id)
 {
   bug-fixed on release 1.0 (pre)
 }
+
+//[fe：取得各類型年資]
+getSeniority(party_id, seniorityType)
+{
+
+}
