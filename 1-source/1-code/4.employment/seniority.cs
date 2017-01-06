@@ -3,5 +3,14 @@
 class seniority{
     party party;
     seniorityType type;
-    float calculate(employment em, seniorityType ty);
+    float calculate(employment em, seniorityType ty)
+    {
+        select seniorityType case
+          health:
+          labor:
+          leave:
+        end
+    };
+
+    
 }
