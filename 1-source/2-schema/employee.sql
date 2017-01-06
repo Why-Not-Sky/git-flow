@@ -1,1 +1,1 @@
-create table employee(party_id int, employee_no varchar(16), hire_date datetime, resign_date datetime)
+create table employee(party_id int, employee_no varchar(16), hire_date datetime, resign_date datetime, extra_seniority float)
