@@ -1,0 +1,1 @@
+insert into functions(fun_id, fun_name) values('hr0302’, ‘年資追溯’)
