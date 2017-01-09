@@ -10,3 +10,9 @@ getEmployment(party_id, position_id)
   lastRecord = exec_sql('select max() from employment')
 
 }
+
+//[fe：取得各類型年資]
+getSeniority(party_id, seniorityType)
+{
+
+}
